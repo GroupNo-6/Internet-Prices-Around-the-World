@@ -37,9 +37,9 @@ For this project, we've teamed up for the ELT process, we are:
  For this project we explored many Datasets that were available on this [Kaggle website](https://www.kaggle.com). We were able to find the following:
 
  * [data set](https://www.kaggle.com/datasets/ramjasmaurya/1-gb-internet-price) : This contains a dataset of internet prices around many countries and islands. 
- * [data set](https://www.kaggle.com/datasets/prasertk/internet-broadband-and-mobile-speeds-by-country) : This contains Internet broadband speed by country.
- * [data set](https://www.kaggle.com/datasets/cityapiio/world-cities-average-internet-prices-2020) : This contains the world cities average USD internet prices.
- * [data set](https://www.kaggle.com/datasets/sansuthi/gapminder-internet) : this contains the Internet Usage rate per 100 people population.
+ * [data set](https://www.kaggle.com/datasets/prasertk/internet-broadband-and-mobile-speeds-by-country) : This contains a dataset of Internet broadband speed by country.
+ * [data set](https://www.kaggle.com/datasets/cityapiio/world-cities-average-internet-prices-2020) : This contains the world cities average USD internet prices dataset.
+ * [data set](https://www.kaggle.com/datasets/sansuthi/gapminder-internet) : this contains the Internet Usage rate per 100 people population dataset.
 
  We were able to read all the above CSV files using jupyter notebook and importing pandas as pd. 
 
