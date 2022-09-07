@@ -26,7 +26,7 @@ For this project, we've teamed up for the ELT process, we are:
 
  In this project we've used 4 different datasets to examine the different characteristics of different countries' internet speed and price. Some countries will have faster internet speed and more users due to the availability of advanced technology, but some countries will have significantly fewer users and slower speed due to limited access to technology. Our group would like to explore these characteristics in one dataset table.
 
- [!Image](/Images/ForREADMe.png)
+ ![Image](/Images/ForREADMe.png)
 
  ## Extraction:
 
