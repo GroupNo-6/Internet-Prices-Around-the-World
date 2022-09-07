@@ -44,8 +44,7 @@ For this project, we've teamed up for the ELT process, we are:
 
  ## Transform :
  
- We were able to merge 3 of the above datasets together with no issues. The only 
- After cleaning, merging and renaming columns in our comibned final dataframe. We Were left with the following columns:
+ We were able to merge 3 of the above datasets together with no issues. We dropped the null values and some columns that we didnot need. The only problem we faced was to take quotaions out of the world cities average USD internet prices dataset. We were able to remove the quotations from the csv file and then added it back to our notebook for reading and converted it to a dataframe. We renamed it to cities_cleaned.csv and merged it to our final dataframe. After cleaning, merging and renaming columns, we came up with a comibned final dataframe. We were left with the following columns:
 
  * 'Country'
  * 'City'
