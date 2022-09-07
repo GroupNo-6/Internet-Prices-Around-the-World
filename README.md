@@ -34,16 +34,17 @@ For this project, we've teamed up for the ELT process, we are:
 
  For this project we explored many Datasets that were available on this [Kaggle website](https://www.kaggle.com). We were able to find the following:
 
- * [data set](https://www.kaggle.com/datasets/ramjasmaurya/1-gb-internet-price) : This contains a dataset of internet prices around many countries and islands. 
- * [data set](https://www.kaggle.com/datasets/prasertk/internet-broadband-and-mobile-speeds-by-country) : This contains a dataset of Internet broadband speed by country.
- * [data set](https://www.kaggle.com/datasets/cityapiio/world-cities-average-internet-prices-2020) : This contains the world cities average USD internet prices dataset.
- * [data set](https://www.kaggle.com/datasets/sansuthi/gapminder-internet) : this contains the Internet Usage rate per 100 people population dataset.
+ * [data set 1](https://www.kaggle.com/datasets/ramjasmaurya/1-gb-internet-price) : This contains a dataset of internet prices around many countries and islands. 
+ * [data set 2](https://www.kaggle.com/datasets/prasertk/internet-broadband-and-mobile-speeds-by-country) : This contains a dataset of Internet broadband speed by country.
+ * [data set 3](https://www.kaggle.com/datasets/cityapiio/world-cities-average-internet-prices-2020) : This contains the world cities average USD internet prices dataset.
+ * [data set 4](https://www.kaggle.com/datasets/sansuthi/gapminder-internet) : this contains the Internet Usage rate per 100 people population dataset.
 
- We were able to read all the above CSV files using jupyter notebook and importing pandas as pd. 
+ We were able to read all the above CSV files using jupyter notebook and importing pandas as pd. We converted all of the above csv files into Dataframes.
 
 
  ## Transform :
  
+ We were able to merge 3 of the above datasets together with no issues. The only 
  After cleaning, merging and renaming columns in our comibned final dataframe. We Were left with the following columns:
 
  * 'Country'
