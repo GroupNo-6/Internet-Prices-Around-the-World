@@ -6,7 +6,7 @@
 * [Teammates](#team-memebers)
 * [Purpose](#purpose)
 * [Extraction](#extraction)
-* [Tranformation](#transform)
+* [Transformation](#transform)
 * [Loading](#load)
 * [References](#references)
 
