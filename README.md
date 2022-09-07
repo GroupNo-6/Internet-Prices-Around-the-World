@@ -1,7 +1,7 @@
 # Internet-Prices-Around-the-World
 
  ### All the csv files used for the project are located in the [Resources folder](/Internet-Prices-Around-the-World/Resources)
- ### The jupyter notebook used for cleaning, tranforming and loading is located in the [main folder](/Internet-Prices-Around-the-World/Internet%20Prices%20Around%20200%2B%20countries.ipynb)
+ ### The jupyter notebook used for cleaning, tranforming and loading is located in the [Main folder](InternetPricesWorldWide_Notebook.ipynb)
 
 ## Table of Contents
 
