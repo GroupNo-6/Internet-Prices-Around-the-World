@@ -6,7 +6,7 @@
 ## Table of Contents
 
 * [Teammates](#team-memebers)
-* [Aim](#purpose)
+* [Purpose](#purpose)
 
 
 
