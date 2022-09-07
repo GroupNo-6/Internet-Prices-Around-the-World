@@ -7,7 +7,10 @@
 
 * [Teammates](#team-memebers)
 * [Purpose](#purpose)
-
+* [Extraction](#extraction)
+* [Tranformation](#transform)
+* [Loading](#load)
+* [References](#references)
 
 
 ## Team Memebers: 
