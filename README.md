@@ -39,7 +39,9 @@ For this project, we've teamed up for the ELT process, we are:
  * [data set 3](https://www.kaggle.com/datasets/cityapiio/world-cities-average-internet-prices-2020) : This contains the world cities average USD internet prices dataset.
  * [data set 4](https://www.kaggle.com/datasets/sansuthi/gapminder-internet) : this contains the Internet Usage rate per 100 people population dataset.
 
- We were able to read all the above CSV files using jupyter notebook and importing pandas as pd. We converted all of the above csv files into Dataframes.
+ We were able to read all the above CSV files using jupyter notebook and importing pandas as pd. We converted all of the above csv files into Dataframes. One of the Datasets read :
+
+ ![Image](/Images/csv_read1.png)
 
 
  ## Transform :
@@ -59,6 +61,10 @@ For this project, we've teamed up for the ELT process, we are:
  * 'Internet users'
  * 'Internet Use Rate'
  * 'Broadband Mbps'
+
+ A Screen shot of our Final Dataframe:
+
+ ![Image](/Images/Final_Dataframe.png)
 
 ## Load:
 
