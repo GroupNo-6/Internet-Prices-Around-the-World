@@ -26,6 +26,8 @@ For this project, we've teamed up for the ELT process, we are:
 
  In this project we've used 4 different datasets to examine the different characteristics of different countries' internet speed and price. Some countries will have faster internet speed and more users due to the availability of advanced technology, but some countries will have significantly fewer users and slower speed due to limited access to technology. Our group would like to explore these characteristics in one dataset table.
 
+ [Image](https://images.search.yahoo.com/search/images;_ylt=AwrEtVcguBhjYaIScVpXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=internet+around+the+worl&fr2=piv-web&type=E211US714G0&fr=mcafee#id=21&iurl=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2019%2F03%2F07%2Ftechnology%2Finternet-cables-oceans-1552081048106%2Finternet-cables-oceans-1552081048106-facebookJumbo-v5.png&action=click)
+
  ## Extraction:
 
  For this project we explored many Datasets that were available on this [Kaggle website](https://www.kaggle.com). We were able to find the following:
@@ -39,11 +41,9 @@ For this project, we've teamed up for the ELT process, we are:
 
 
  ## Transform :
-
-
-
+ 
  After cleaning, merging and renaming columns in our comibned final dataframe. We Were left with the following columns:
-
+ 
  * 'Country'
  * 'City'
  * 'Internet Price of City (USD)'
