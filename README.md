@@ -23,9 +23,9 @@ For this project, we've teamed up for the ELT process, we are:
 
 
 ## Purpose: 
- The main goal of this project is to perform the ETL process (Extract, Transform, Load) and document our steps taken in the process. The steps includes documenting the datasets used and their sources, types of data wragnling perfomed like cleaning, joining, filtering and aggregating. Also, the schemata used in the final production database.  The data for the extraction process can come from many different sources such as csv files, json files, html files, sql databases or spreadsheets. In this project , we've used 4 different csv files for extraction. We have jupyter notebook to transform the data. The transformation process includes data cleaning, selecting, joining , filtering and aggregating the data that we've used. For loading the data , we've used PostgreSql. 
+ The main goal of this project is to perform the ETL process (Extract, Transform, Load(into SQL or NoSQL Databse)) and document our steps taken in the process.  In this project , we've used Jupyter notebook for the ELT process. Pandas was used for reading and converting the CSV files. The transformation process included data cleaning, selecting, joining , filtering and aggregating the data that we've used. For loading the data into a datbase, we've used PostgreSql. 
 
- In this project we've used 4 different datasets to examine the different characteristics of different countries' internet speed and price. Some countries will have faster internet speed and more users due to the availability of advanced technology, but some countries will have significantly fewer users and slower speed due to limited access to technology. Our group would like to explore these characteristics in one dataset table.
+ In this project we've used 4 different datasets to examine the different characteristics of different countries' and cities' internet speed and price. Some countries will have faster internet speed and more users due to the availability of advanced technology, but some countries will have significantly fewer users and slower speed due to limited access to technology. Our group would like to explore these characteristics in one dataset table.
 
  ![Image](/Images/ForREADMe.png)
 
