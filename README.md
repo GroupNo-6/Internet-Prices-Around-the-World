@@ -67,7 +67,7 @@ For this project, we've teamed up for the ELT process, we are:
 
 # References :
 
-* For the images used in the project, we used it from this website [website](https://images.search.yahoo.com/search/images;_ylt=AwrEtVcguBhjYaIScVpXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=internet+around+the+worl&fr2=piv-web&type=E211US714G0&fr=mcafee#id=21&iurl=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2019%2F03%2F07%2Ftechnology%2Finternet-cables-oceans-1552081048106%2Finternet-cables-oceans-1552081048106-facebookJumbo-v5.png&action=click)
+* For the images used in the project, we used it from this [website](https://images.search.yahoo.com/search/images;_ylt=AwrEtVcguBhjYaIScVpXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=internet+around+the+worl&fr2=piv-web&type=E211US714G0&fr=mcafee#id=21&iurl=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2019%2F03%2F07%2Ftechnology%2Finternet-cables-oceans-1552081048106%2Finternet-cables-oceans-1552081048106-facebookJumbo-v5.png&action=click)
 
 
 
