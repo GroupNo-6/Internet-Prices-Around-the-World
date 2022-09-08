@@ -1,14 +1,4 @@
-# Internet-Prices-Around-the-World
-
-
-## Table of Contents
-
-* [Team Members](#team-memebers)
-* [Purpose](#purpose)
-* [Extraction](#extraction)
-* [Transformation](#transform)
-* [Loading](#load)
-* [References](#references)
+# Project: Internet-Prices-Around-the-World
 
 ## Team Memebers: 
 For this project, we've teamed up for the ELT process, we are:
