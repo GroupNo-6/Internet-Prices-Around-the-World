@@ -57,8 +57,10 @@ For this project, we've teamed up for the ELT process, we are:
 
 ## Load:
 
-The final DataFrame was uploaded on PostgresSQL. We imported Psycopg2 and Sqlalchemy for creating a path to PostgresSql Database and converted the dataframe into a sql file.
-![image](/Images/loadinguntopostgres.png)
+The final DataFrame was uploaded on PostgresSQL. We imported Psycopg2 and Sqlalchemy for creating a path to PostgresSql Database and converted the dataframe into a sql file.  
+
+![image](/Images/loadinguntopostgres.png) 
+
 ![image](/Images/tableinPostgresql.png) 
 
 
