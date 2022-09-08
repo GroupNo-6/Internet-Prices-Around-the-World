@@ -3,13 +3,12 @@
 
 ## Table of Contents
 
-* [Teammates](#team-memebers)
+* [Team Members](#team-memebers)
 * [Purpose](#purpose)
 * [Extraction](#extraction)
 * [Transformation](#transform)
 * [Loading](#load)
 * [References](#references)
-
 
 ## Team Memebers: 
 For this project, we've teamed up for the ELT process, we are:
@@ -69,6 +68,7 @@ For this project, we've teamed up for the ELT process, we are:
 ## Load:
 
 The final DataFrame was converted into a CSV file and uploaded on Postgres by importing create_engine from sqlalchemy and importing pyscopg2. 
+![image](/Images/loadinguntopostgres.png)
 
 
 # References :
