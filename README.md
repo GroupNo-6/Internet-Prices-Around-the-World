@@ -69,6 +69,7 @@ For this project, we've teamed up for the ELT process, we are:
 
 The final DataFrame was converted into a CSV file and uploaded on Postgres by importing create_engine from sqlalchemy and importing pyscopg2. 
 ![image](/Images/loadinguntopostgres.png)
+![image](/Images/tableinPostgresql.png) 
 
 
 # References :
