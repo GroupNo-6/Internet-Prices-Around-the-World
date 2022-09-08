@@ -12,7 +12,7 @@ For this project, we've teamed up for the ELT process, we are:
 
 
 ## Purpose: 
- The main goal of this project is to perform the ETL process (Extract, Transform, Load(into SQL or NoSQL Databse)) and document our steps taken in the process.  In this project , we've used Jupyter notebook for the ELT process. Pandas was used for reading and converting the CSV files. The transformation process included data cleaning, selecting, joining , filtering and aggregating the data that we've used. For loading the data into a datbase, we've used PostgreSql. 
+ The main goal of this project is to perform the ETL process (Extract, Transform, Load(into SQL or NoSQL Databse)) and document our steps taken in the process.  In this project , we've used Jupyter notebook for the ELT process. Pandas was used for reading and converting the CSV files. The transformation process included data cleaning, selecting, joining , filtering and aggregating the data that we've used. For loading the data into a database, we've used PostgreSql. 
 
  In this project we've used 4 different datasets to examine the different characteristics of different countries' and cities' internet speed and price. Some countries will have faster internet speed and more users due to the availability of advanced technology, but some countries will have significantly fewer users and slower speed due to limited access to technology. Our group would like to explore these characteristics in one dataset table.
 
@@ -57,7 +57,7 @@ For this project, we've teamed up for the ELT process, we are:
 
 ## Load:
 
-The final DataFrame was converted into a CSV file and uploaded on Postgres by importing create_engine from sqlalchemy and importing pyscopg2. 
+The final DataFrame was uploaded on PostgresSQL. We imported Psycopg2 and Sqlalchemy for creating a path to PostgresSql Database and converted the dataframe into a sql file.
 ![image](/Images/loadinguntopostgres.png)
 ![image](/Images/tableinPostgresql.png) 
 
