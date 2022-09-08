@@ -76,8 +76,8 @@ The final DataFrame was converted into a CSV file and uploaded on Postgres by im
 
 * For the images used in the project, we used it from this [website](https://images.search.yahoo.com/search/images;_ylt=AwrEtVcguBhjYaIScVpXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=internet+around+the+worl&fr2=piv-web&type=E211US714G0&fr=mcafee#id=21&iurl=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2019%2F03%2F07%2Ftechnology%2Finternet-cables-oceans-1552081048106%2Finternet-cables-oceans-1552081048106-facebookJumbo-v5.png&action=click)
 
-* ### All the csv files used for the project are located in the [Resources folder](/Resources)
-* ### The jupyter notebook used for cleaning, tranforming and loading is located in the [Main folder](InternetPricesWorldWide_Notebook.ipynb)
+* All the csv files used for the project are located in the [Resources folder](/Resources)
+* The jupyter notebook used for cleaning, tranforming and loading is located in the [Main folder](InternetPricesWorldWide_Notebook.ipynb)
 
 
 
